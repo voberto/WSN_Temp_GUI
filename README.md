@@ -7,6 +7,6 @@ This project comprises a full HW/SW minimal design for the ESP8266 Node MCU boar
 
 ### 2 - Contents
 
-i) '/sensor' -> hardware (Eagle schematic and board files) and software (Arduino files) related to the Node MCU board.
+i) '/wsn' -> hardware (Eagle schematic and board files) and software (Arduino files) related to the Node MCU board.
 
 ii) '/client' -> all the software for the GUI program.
