@@ -1,4 +1,4 @@
-# ETSwG
+# WSN_Temp_GUI
 ESP8266/ESP32 Temperature Measurement Wireless Sensor Node (+DS18B20) with Graphical User Interface program.
 
 ### 1 - Overview
