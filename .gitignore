@@ -1,0 +1,8 @@
+client/venv001/bin
+client/venv001/include
+client/venv001/lib
+client/venv001/lib64
+client/venv001/share
+client/venv001/src/__pycache__
+client/venv001/.vscode
+client/venv001/pyvenv.cfg

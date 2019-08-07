@@ -1,0 +1,44 @@
+Greetings from WSN_Temp_GUI log console!
+Trying to connect to the broker ...
+Connected with broker 192.168.25.5
+Subscribed to topic: wsn/temp
+
+Received message!
+Topic: wsn/temp
+Message: 26.62
+
+Received message!
+Topic: wsn/temp
+Message: 26.62
+
+Received message!
+Topic: wsn/temp
+Message: 26.62
+
+Received message!
+Topic: wsn/temp
+Message: 26.62
+
+Received message!
+Topic: wsn/temp
+Message: 26.69
+
+Received message!
+Topic: wsn/temp
+Message: 26.69
+
+Received message!
+Topic: wsn/temp
+Message: 26.69
+
+Received message!
+Topic: wsn/temp
+Message: 26.69
+
+Received message!
+Topic: wsn/temp
+Message: 26.69
+
+Received message!
+Topic: wsn/temp
+Message: 26.69
