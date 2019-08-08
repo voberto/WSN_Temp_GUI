@@ -3,7 +3,7 @@ ESP8266/ESP32 Temperature Measurement Wireless Sensor Node (+DS18B20) with Graph
 
 ### 1 - Overview
 
-This project comprises a full HW/SW minimal design for the ESP8266 Node MCU board to send periodic measurements from the DS18B20 digital temperature sensor to a Python-based graphical user interface program through mosquitto MQTT broker. A general block diagram of the included parts is depicted below.
+This project comprises a minimal HW/SW design for the ESP8266 Node MCU board to send periodic measurements from the DS18B20 digital temperature sensor to a Python-based graphical user interface program through 'mosquitto' MQTT broker. A general block diagram of the included parts is depicted below.
 
 ![](wsn_temp_gui_diagram001.png)
 
@@ -59,7 +59,7 @@ As the main user interface, a Python-based application (gui_main.py) was designe
  
  - Matplotlib (chart plotting).
  
-All required libraries are depicted in the 'libs.txt' file. To set up a new dev environment, create a separate folder and initialize a environment with:
+All required libraries are depicted in the 'libs.txt' file. To set up a new dev environment, create a separate folder and initialize an environment with:
 ```
 $ python3 -m venv <DEV_PATH>      ## Create the environment
 $ source <DEV_PATH>/bin/activate  ## Enable the environment
@@ -69,4 +69,8 @@ To install the libraries, move the "libs.txt" file to the dev path and run:
 $ pip install -r libs.txt
 ```
 
-Finally, run the 'gui_main.py' and enjoy!
+After that, don't forget to add all Python library paths to the .gitignore file. Finally, copy all the /src files to the dev path, run the 'gui_main.py' script and enjoy!
+
+#### 3.4 - Example usage
+
+TODO !!!
