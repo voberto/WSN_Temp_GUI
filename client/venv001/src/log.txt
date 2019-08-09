@@ -5,40 +5,108 @@ Subscribed to topic: wsn/temp
 
 Received message!
 Topic: wsn/temp
-Message: 26.62
+Message: 28.50
 
 Received message!
 Topic: wsn/temp
-Message: 26.62
+Message: 28.50
 
 Received message!
 Topic: wsn/temp
-Message: 26.62
+Message: 28.56
 
 Received message!
 Topic: wsn/temp
-Message: 26.62
+Message: 28.56
 
 Received message!
 Topic: wsn/temp
-Message: 26.69
+Message: 28.56
 
 Received message!
 Topic: wsn/temp
-Message: 26.69
+Message: 28.56
 
 Received message!
 Topic: wsn/temp
-Message: 26.69
+Message: 28.56
 
 Received message!
 Topic: wsn/temp
-Message: 26.69
+Message: 28.56
 
 Received message!
 Topic: wsn/temp
-Message: 26.69
+Message: 28.87
 
 Received message!
 Topic: wsn/temp
-Message: 26.69
+Message: 29.31
+
+Received message!
+Topic: wsn/temp
+Message: 29.25
+
+Received message!
+Topic: wsn/temp
+Message: 29.31
+
+Received message!
+Topic: wsn/temp
+Message: 29.44
+
+Received message!
+Topic: wsn/temp
+Message: 29.37
+
+Received message!
+Topic: wsn/temp
+Message: 29.25
+
+Received message!
+Topic: wsn/temp
+Message: 29.12
+
+Received message!
+Topic: wsn/temp
+Message: 29.00
+
+Received message!
+Topic: wsn/temp
+Message: 29.00
+
+Received message!
+Topic: wsn/temp
+Message: 29.00
+
+Received message!
+Topic: wsn/temp
+Message: 29.00
+
+Received message!
+Topic: wsn/temp
+Message: 29.06
+
+Received message!
+Topic: wsn/temp
+Message: 29.06
+
+Received message!
+Topic: wsn/temp
+Message: 29.06
+
+Received message!
+Topic: wsn/temp
+Message: 29.00
+
+Received message!
+Topic: wsn/temp
+Message: 29.00
+
+Received message!
+Topic: wsn/temp
+Message: 29.00
+
+Received message!
+Topic: wsn/temp
+Message: 29.00
