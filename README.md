@@ -78,4 +78,4 @@ After that, don't forget to add all Python library paths to the .gitignore file.
 
 #### 3.4 - Example usage
 
-TODO !!!
+![](wsn_temp_gui_example_usage.gif)
