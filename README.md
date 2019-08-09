@@ -51,6 +51,11 @@ The temperature measurement system is provided by a ESP8266 NodeMCU board and a 
 
 - DallasTemperature (Tim Burton, etc.).
 
+If desired, a virtual WiFi hotpost can be created with 'create_ap' (https://github.com/oblique/create_ap) in Linux to hide the router's credentials while developing. To start the bridged WiFi interface for this project:
+```
+$ sudo create_ap <INTERFACE> <INTERFACE> <NEW_SSID> <NEW_PASSWORD>
+```
+
 #### 3.3 - Application with GUI
 
 As the main user interface, a Python-based application (gui_main.py) was designed to receive temperature measurements and plot them in (almost) real time. The program also logs all data in a csv file. The main libraries for this project are:
@@ -59,12 +64,12 @@ As the main user interface, a Python-based application (gui_main.py) was designe
  
  - Matplotlib (chart plotting).
  
-All required libraries are depicted in the 'libs.txt' file. To set up a new dev environment, create a separate folder and initialize an environment with:
+For better management of the development process (sandboxing of specific Python libraries), the GUI program was developed inside a virtual environment using the 'venv' package. All required libraries are depicted in the 'libs.txt' file. To create and initialize a new dev environment, create a separate folder and run the following commands:
 ```
 $ python3 -m venv <DEV_PATH>      ## Create the environment
 $ source <DEV_PATH>/bin/activate  ## Enable the environment
 ```
-To install the libraries, move the "libs.txt" file to the dev path and run:
+To install the libraries used in the GUI program, move the "libs.txt" file to the dev path and run:
 ```
 $ pip install -r libs.txt
 ```
